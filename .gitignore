@@ -1,1 +1,2 @@
- # File to ignore node_modules and build artifacts
+node_modules/
+build/
